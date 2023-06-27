@@ -1,9 +1,10 @@
-# 안녕하세요!  
+# Welcome!
 
-> 안녕하세요~ <strong>김수현입니다!</strong>. 
+> Hello! I am <strong> Su Hyeon Kim</strong>. 
 > 
 > <strong>FrontEnd</strong> Developer .
 
++ [Blog](https://riverpigeon.tistory.com/)
 
 <div >
   
@@ -24,12 +25,15 @@
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F80000.svg?&style=for-the-badge&logo=figma&logoColor=white)
+  ![Postman](https://img.shields.io/badge/postman-%23F05A24.svg?&style=for-the-badge&logo=postman&logoColor=white)
     </div>
 
 
+## Status
   <div align=center>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyKJH&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKJH&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsh322&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsh322&layout=donut)](https://github.com/anuraghazra/github-readme-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh322)](https://solved.ac/kimsh322/) |
+| :--: | :--: | :--: |
 
   </div>
