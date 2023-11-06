@@ -29,11 +29,3 @@
   ![Figma](https://img.shields.io/badge/figma-%23F80000.svg?&style=for-the-badge&logo=figma&logoColor=white)
   ![Postman](https://img.shields.io/badge/postman-%23F05A24.svg?&style=for-the-badge&logo=postman&logoColor=white)
     </div>
-
-
-## Status
-  <div align=center>
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh322)](https://solved.ac/kimsh322/)
-
-  </div>
