@@ -2,9 +2,7 @@
 
 > Hello! I am <strong> Su Hyeon Kim</strong>. 
 > 
-> <strong>FrontEnd</strong> Developer .
-
-+ [Blog](https://riverpigeon.tistory.com/)
+> <strong>FrontEnd</strong> Developer
 
 <div >
   
